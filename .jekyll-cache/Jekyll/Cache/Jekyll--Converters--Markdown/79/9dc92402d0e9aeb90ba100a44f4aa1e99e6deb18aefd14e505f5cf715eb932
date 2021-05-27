@@ -1,0 +1,57 @@
+I"<h1 id="kick-it-social-media-mern-stack">Kick-it-Social-Media-MERN-Stack</h1>
+
+<p>This is a MERN stack web application designed to track a persons habits that they would like to kick. As well as including social media features such as profiles, posting, commenting, and liking. This application takes full advantage of user authentication with JWT tokens.</p>
+
+<h1 id="demo">Demo</h1>
+<p><a href="http://ec2-100-25-191-107.compute-1.amazonaws.com:3000/login">Here is a demo of this project!</a>
+If you do not wish to make an account use:
+<br />
+Email: “tester@email.com”
+<br />
+Password: “password”</p>
+
+<h1 id="objective">Objective</h1>
+
+<p>This web app was designed with the perpose of connecting indeviduals who have a desire to quit a habbit or addiction. With the ability to track you progress through real time and share your experience with others.</p>
+
+<h1 id="set-up-runtime-envirnment">Set up runtime envirnment</h1>
+
+<ol>
+  <li>Clone or download repository.</li>
+  <li>Open directory and run npm install.</li>
+  <li>Open client directory and run npm install.</li>
+</ol>
+
+<p>This application uses a mongoDB Atlas account. To create a mongoDB Atlas account go <a href="https://www.mongodb.com/cloud/atlas#:~:text=MongoDB%20Atlas%20is%20the%20global,data%20security%20and%20privacy%20standards.">here</a>.</p>
+
+<ol>
+  <li>Log into Atlas account and create a cluster then click “Connect”.</li>
+  <li>Whitelist a connection IP address and create a MongoDB user.</li>
+  <li>Once connected choose “Connect Your Application”</li>
+  <li>Replace the mongoURI string in key.js with the connection string. Replace <user> and <password> with your username and password.</password></user></li>
+  <li>Return to the main directory and run npm dev. You can access the site on localhost:3000.</li>
+</ol>
+
+<h1 id="this-application-was-build-useing">This application was build useing</h1>
+
+<ul>
+  <li>Node.js: Run time envirnment</li>
+  <li>Express.js: Backend frameword</li>
+  <li>Reactjs: User interface useing JavaScript</li>
+  <li>JSON Web Token: Secure HTTP requests</li>
+  <li>MongoDB: Database for storing data</li>
+  <li>Mongoose: Modeling tool for Node.js</li>
+  <li>Material-UI: User interface library for React</li>
+  <li>AWS: Amazon web service, hosts this application demo.</li>
+</ul>
+
+<h1 id="acknowlegment">Acknowlegment</h1>
+
+<ul>
+  <li>Much of the design was inpired by pre existing projects like Qolzam’s
+<a href="https://github.com/Qolzam/js-react-social-tutorial">js-react-social-tutorial</a> and ThomasFoydel <a href="https://github.com/ThomasFoydel/socialmedia">socialmedia</a></li>
+  <li>Authentication was completed with the help of guides by
+Ben Awad <a href="https://www.youtube.com/watch?v=oRL-pttfNSc">React Client Side Authentication</a> and Taylor Ray Howard <a href="https://www.youtube.com/watch?v=Nq9RmAB9eag">Using JWT Authentication in React</a></li>
+  <li>Documentation for tools used: <a href="https://material-ui.com/">Material-UI</a>, <a href="https://mongoosejs.com/">Mongoose</a>, <a href="https://reactjs.org/">React</a></li>
+</ul>
+:ET
