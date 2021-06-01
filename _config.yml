@@ -2,8 +2,8 @@ title:              Hello My Name is Collin
 email:              wisser24910@gmail.com
 description:        And This is my Portfolio website
 author:             Collin Wisser
-baseurl:            "/startbootstrap-clean-blog-jekyll"
-url:                "https://startbootstrap.github.io"
+baseurl:            /PROJECT
+url:                "https://collin24910.github.io"
 
 # Social Profiles
 twitter_username:   Collinwisser
