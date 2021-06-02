@@ -12,6 +12,6 @@ I'm currently a graduate student at Rowan University studying computer science, 
 
 Ever since learning the potential of software development in my first intro class to programming back in high school I've pushed myselft to hone my ability to create software that I would be proud to have my friends and family use. That's why i strive to create clean and well designed code.
 
-[Let my work speack for its self](http://127.0.0.1:4000/startbootstrap-clean-blog-jekyll/posts/)
+[Let my work speack for its self](https://collin24910.github.io/webAssignment02/posts/)
 
 -------
